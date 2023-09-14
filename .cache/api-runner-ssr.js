@@ -11,6 +11,10 @@ var plugins = [{
       plugin: require('C:/Users/MSI-In/Documents/perso/projects/careerquests/careerquests/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
+      name: 'gatsby-plugin-sitemap',
+      plugin: require('C:/Users/MSI-In/Documents/perso/projects/careerquests/careerquests/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      options: {"plugins":[],"output":"/","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
+    },{
       name: 'partytown',
       plugin: require('C:/Users/MSI-In/Documents/perso/projects/careerquests/careerquests/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
       options: {"plugins":[]},

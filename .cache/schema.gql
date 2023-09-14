@@ -1,4 +1,4 @@
-### Type definitions saved at 2023-09-08T16:51:09.249Z ###
+### Type definitions saved at 2023-09-13T16:41:58.380Z ###
 
 enum RemoteFileFit {
   COVER
@@ -267,6 +267,8 @@ type Site implements Node @dontInfer {
 type SiteSiteMetadata {
   title: String
   description: String
+  image: String
+  siteUrl: String
 }
 
 type SiteFunction implements Node @dontInfer {

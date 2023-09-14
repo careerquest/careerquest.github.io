@@ -2,7 +2,7 @@
   "name": "careerquests",
   "version": "1.0.0",
   "private": false,
-  "description": "Discover the insights and strategies you need for a successful career in recruitment and professional advancement. Career Quests is your go-to resource for a wide range of articles covering various topics related to the world of recruitment and career development. From resume optimization and interview techniques to networking tips and industry trends, our blog provides valuable guidance for navigating the ever-evolving job market. Join us on this journey as we delve into the intricacies of recruitment, equipping you with the knowledge and skills needed to embark on your own career quests.",
+  "description": "Unlock Your Career Potential with Career Quests: Your Recruitment and Professional Advancement Resource. Discover the insights and strategies you need for a successful career in recruitment and professional advancement. Career Quests is your go-to resource, offering articles covering various topics in the world of recruitment and career development. From resume optimization to interview techniques, networking tips, and industry trends, our blog provides valuable guidance for navigating the job market. Join us on this journey as we equip you with the knowledge and skills for your own career quests.",
   "author": "careequests",
   "keywords": [
     "gatsby"
@@ -25,6 +25,7 @@
     "gatsby-plugin-manifest": "^5.12.0",
     "gatsby-plugin-mdx": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
+    "gatsby-plugin-sitemap": "^6.12.0",
     "gatsby-source-filesystem": "^5.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
     "react": "^18.2.0",

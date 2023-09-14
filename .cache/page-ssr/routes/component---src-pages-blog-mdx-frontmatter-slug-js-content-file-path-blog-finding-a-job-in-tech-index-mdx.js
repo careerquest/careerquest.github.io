@@ -21,11 +21,51 @@ var lib = __webpack_require__(1151);
 var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_ = __webpack_require__(9324);
 var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default = /*#__PURE__*/__webpack_require__.n(external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_);
 ;// CONCATENATED MODULE: ./blog/finding-a-job-in-tech/index.mdx
-/*@jsxRuntime classic @jsx React.createElement @jsxFrag React.Fragment*/function _createMdxContent(props){return/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment,null,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"The tech industry continues to grow at a rapid pace, fueling demand for skilled professionals. While breaking into tech used to require a computer science degree, finding work is now more accessible for job seekers from various backgrounds. In this article, we'll discuss how the tech job market is opening up and provide some tips for landing an entry-level role."),"\n",/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("div",{className:"container mx-auto mt-3"},/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-4"},"Trust me ! It's Easier Than You Think"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-2 text-blue-600"},"Demand Outpaces Supply"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"With the rise of remote work, startups, and evolving job roles, tech companies are struggling to find qualified candidates. Many are willing to consider self-taught applicants or those with unrelated degrees but transferable skills. Industries like web development, UX design, programming etc. have plenty of openings at both large corporations and startups. "),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-2 text-blue-600"},"Training & Certifications Go a Long Way"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"If you don't have a CS degree, online courses and certifications from sources like edX, Coursera, Udacity can demonstrate your skills and knowledge. Popular options include programming certs like Google's IT Support certificate, Coursera's UX Design program, and Techdegree's web development courses. Earning relevant certificates proves your commitment and makes up for formal education on a resume."),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-2 text-blue-600"},"Personal Projects Show Passion"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"Contribute to open source projects, build your own web or mobile apps, and host the code on GitHub. Having publicly available side projects to share in interviews shows hiring managers what you can do rather than just tell them. Blog about technologies and document your learning process. This type of self-promotion helps express your drive and potential as a coder."),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-2 text-blue-600"},"Consider Bootcamps for Interview Prep"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"Immersive coding bootcamps like Hack Reactor and App Academy offer career services and mock interviews to help graduates land that first job. While not essential, bootcamps provide structured training, networking opportunities, and guidance on the job search process. Many offer financing and payment plans only after securing a position making them low-risk options."),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2",{className:"text-2xl font-bold mb-2 text-blue-600"},"Build Your Online Profile"),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6"},"An active LinkedIn profile optimized with the right keywords grants recruiters easy access to your background and skills. Make professional connections and join relevant LinkedIn groups. As you gain experience, your online presence will speak volumes before ever getting in front of an interviewer."),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p",{className:"mb-6 mt-6"},"The barriers to breaking into tech are lowering every year. With some self-study and perseverance, anyone motivated to learn can start a new career in this booming industry.")));}function MDXContent(props={}){const{wrapper:MDXLayout}=Object.assign({},(0,lib/* useMDXComponents */.ah)(),props.components);return MDXLayout?/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement(MDXLayout,props,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement(_createMdxContent,props)):_createMdxContent(props);}/* harmony default export */ const finding_a_job_in_tech = (MDXContent);
+/*@jsxRuntime classic @jsx React.createElement @jsxFrag React.Fragment*/
+
+
+function _createMdxContent(props) {
+  return /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment, null, /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "The tech industry continues to grow at a rapid pace, fueling demand for skilled professionals. While breaking into tech used to require a computer science degree, finding work is now more accessible for job seekers from various backgrounds. In this article, we'll discuss how the tech job market is opening up and provide some tips for landing an entry-level role."), "\n", /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("div", {
+    className: "container mx-auto mt-3"
+  }, /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-4"
+  }, "Trust me ! It's Easier Than You Think"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-2 text-blue-600"
+  }, "Demand Outpaces Supply"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "With the rise of remote work, startups, and evolving job roles, tech companies are struggling to find qualified candidates. Many are willing to consider self-taught applicants or those with unrelated degrees but transferable skills. Industries like web development, UX design, programming etc. have plenty of openings at both large corporations and startups. "), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-2 text-blue-600"
+  }, "Training & Certifications Go a Long Way"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "If you don't have a CS degree, online courses and certifications from sources like edX, Coursera, Udacity can demonstrate your skills and knowledge. Popular options include programming certs like Google's IT Support certificate, Coursera's UX Design program, and Techdegree's web development courses. Earning relevant certificates proves your commitment and makes up for formal education on a resume."), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-2 text-blue-600"
+  }, "Personal Projects Show Passion"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "Contribute to open source projects, build your own web or mobile apps, and host the code on GitHub. Having publicly available side projects to share in interviews shows hiring managers what you can do rather than just tell them. Blog about technologies and document your learning process. This type of self-promotion helps express your drive and potential as a coder."), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-2 text-blue-600"
+  }, "Consider Bootcamps for Interview Prep"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "Immersive coding bootcamps like Hack Reactor and App Academy offer career services and mock interviews to help graduates land that first job. While not essential, bootcamps provide structured training, networking opportunities, and guidance on the job search process. Many offer financing and payment plans only after securing a position making them low-risk options."), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("h2", {
+    className: "text-2xl font-bold mb-2 text-blue-600"
+  }, "Build Your Online Profile"), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6"
+  }, "An active LinkedIn profile optimized with the right keywords grants recruiters easy access to your background and skills. Make professional connections and join relevant LinkedIn groups. As you gain experience, your online presence will speak volumes before ever getting in front of an interviewer."), /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("p", {
+    className: "mb-6 mt-6"
+  }, "The barriers to breaking into tech are lowering every year. With some self-study and perseverance, anyone motivated to learn can start a new career in this booming industry.")));
+}
+function MDXContent(props = {}) {
+  const {
+    wrapper: MDXLayout
+  } = Object.assign({}, (0,lib/* useMDXComponents */.ah)(), props.components);
+  return MDXLayout ? /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement(MDXLayout, props, /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement(_createMdxContent, props)) : _createMdxContent(props);
+}
+/* harmony default export */ const finding_a_job_in_tech = (MDXContent);
 // EXTERNAL MODULE: ./src/components/layout.js + 2 modules
 var layout = __webpack_require__(1977);
-// EXTERNAL MODULE: ./src/components/seo.js
-var seo = __webpack_require__(9357);
+// EXTERNAL MODULE: ./src/components/seo.js + 1 modules
+var seo = __webpack_require__(5595);
 // EXTERNAL MODULE: ./node_modules/gatsby-plugin-image/dist/gatsby-image.module.js
 var gatsby_image_module = __webpack_require__(3040);
 ;// CONCATENATED MODULE: ./src/pages/blog/{mdx.frontmatter__slug}.js?__contentFilePath=C:/Users/MSI-In/Documents/perso/projects/careerquests/careerquests/blog/finding-a-job-in-tech/index.mdx
@@ -56,7 +96,7 @@ const BlogPost = ({
 const query = "421266626";
 const Head = ({
   data
-}) => /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_.createElement(seo/* default */.Z, {
+}) => /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_.createElement(seo/* SEO */.H, {
   title: data.mdx.frontmatter.title
 });
 BlogPost;
@@ -90,16 +130,24 @@ const Layout=({children})=>{return/*#__PURE__*/external_C_Users_MSI_In_Documents
 
 /***/ }),
 
-/***/ 9357:
+/***/ 5595:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9324);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7076);
-const Seo=({title})=>{const data=(0,gatsby__WEBPACK_IMPORTED_MODULE_1__.useStaticQuery)("3000541721");return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("title",null,title," | ",data.site.siteMetadata.title);};/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Seo);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  H: () => (/* binding */ SEO)
+});
+
+// EXTERNAL MODULE: external "C:\\Users\\MSI-In\\Documents\\perso\\projects\\careerquests\\careerquests\\node_modules\\react\\index.js"
+var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_ = __webpack_require__(9324);
+var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default = /*#__PURE__*/__webpack_require__.n(external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_);
+// EXTERNAL MODULE: ./.cache/gatsby-browser-entry.js + 11 modules
+var gatsby_browser_entry = __webpack_require__(7076);
+;// CONCATENATED MODULE: ./src/hooks/use-site-metadata.jsx
+const useSiteMetadata=()=>{const data=(0,gatsby_browser_entry.useStaticQuery)("1946181227");return data.site.siteMetadata;};
+;// CONCATENATED MODULE: ./src/components/seo.js
+const SEO=({title,description,pathname,children})=>{const{title:defaultTitle,description:defaultDescription,image,siteUrl}=useSiteMetadata();const seo={title:title||defaultTitle,description:description||defaultDescription,image:`${siteUrl}${image}`,url:`${siteUrl}${pathname||``}`};return/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment,null,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("title",null,seo.title),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"description",content:seo.description}),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"image",content:seo.image}),children);};
 
 /***/ })
 

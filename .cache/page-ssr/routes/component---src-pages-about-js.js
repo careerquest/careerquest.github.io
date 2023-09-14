@@ -27,16 +27,24 @@ const Layout=({children})=>{return/*#__PURE__*/external_C_Users_MSI_In_Documents
 
 /***/ }),
 
-/***/ 9357:
+/***/ 5595:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   Z: () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9324);
-/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var gatsby__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(7076);
-const Seo=({title})=>{const data=(0,gatsby__WEBPACK_IMPORTED_MODULE_1__.useStaticQuery)("3000541721");return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("title",null,title," | ",data.site.siteMetadata.title);};/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Seo);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  H: () => (/* binding */ SEO)
+});
+
+// EXTERNAL MODULE: external "C:\\Users\\MSI-In\\Documents\\perso\\projects\\careerquests\\careerquests\\node_modules\\react\\index.js"
+var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_ = __webpack_require__(9324);
+var external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default = /*#__PURE__*/__webpack_require__.n(external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_);
+// EXTERNAL MODULE: ./.cache/gatsby-browser-entry.js + 11 modules
+var gatsby_browser_entry = __webpack_require__(7076);
+;// CONCATENATED MODULE: ./src/hooks/use-site-metadata.jsx
+const useSiteMetadata=()=>{const data=(0,gatsby_browser_entry.useStaticQuery)("1946181227");return data.site.siteMetadata;};
+;// CONCATENATED MODULE: ./src/components/seo.js
+const SEO=({title,description,pathname,children})=>{const{title:defaultTitle,description:defaultDescription,image,siteUrl}=useSiteMetadata();const seo={title:title||defaultTitle,description:description||defaultDescription,image:`${siteUrl}${image}`,url:`${siteUrl}${pathname||``}`};return/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment,null,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("title",null,seo.title),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"description",content:seo.description}),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"image",content:seo.image}),children);};
 
 /***/ }),
 
@@ -51,10 +59,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(9324);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(1977);
-/* harmony import */ var _components_seo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(9357);
+/* harmony import */ var _components_seo__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(5595);
 // Step 1: Import React
-const AboutPage=()=>{return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{pageTitle:"About Me"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p",null));};const Head=()=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_2__/* ["default"] */ .Z,{title:"About Us"});// Step 3: Export your component
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (AboutPage);
+const AboutPage=()=>{return/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_layout__WEBPACK_IMPORTED_MODULE_1__/* ["default"] */ .Z,{pageTitle:"About Me"},/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p",null));};const Head=()=>/*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(_components_seo__WEBPACK_IMPORTED_MODULE_2__/* .SEO */ .H,{title:"About Us"});/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (AboutPage);
 
 /***/ })
 
