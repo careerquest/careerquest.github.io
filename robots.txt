@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://careerquest.github.io/sitemap-index.xml
+Host: https://careerquest.github.io
