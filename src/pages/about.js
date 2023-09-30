@@ -1,6 +1,6 @@
 import * as React from "react";
 import Layout from "../components/layout";
-import { SEO } from "../components/seo";
+import { Seo } from "../components/seo";
 
 const AboutPage = () => {
   return (
@@ -45,6 +45,6 @@ const AboutPage = () => {
   );
 };
 
-export const Head = () => <SEO title="About Us" />;
+export const Head = () => <Seo title="About Us" />;
 
 export default AboutPage;

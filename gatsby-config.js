@@ -59,6 +59,16 @@ module.exports = {
     "gatsby-plugin-mdx",
 
     "gatsby-transformer-sharp",
+
     "gatsby-plugin-sitemap",
+ 
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://careerquest.github.io",
+        sitemap: "https://careerquest.github.io/sitemap-index.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
+    },
   ],
 };

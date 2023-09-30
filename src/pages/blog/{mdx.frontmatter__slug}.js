@@ -1,6 +1,6 @@
 import * as React from "react";
 import Layout from "../../components/layout";
-import {SEO} from "../../components/seo";
+import {Seo} from "../../components/seo";
 import { graphql } from "gatsby";
 import { GatsbyImage, getImage } from "gatsby-plugin-image";
 
@@ -41,6 +41,6 @@ export const query = graphql`
     }
   }
 `;
-export const Head = ({ data }) => <SEO title={data.mdx.frontmatter.title} />;
+export const Head = ({ data }) => <Seo title={data.mdx.frontmatter.title} />;
 
 export default BlogPost;

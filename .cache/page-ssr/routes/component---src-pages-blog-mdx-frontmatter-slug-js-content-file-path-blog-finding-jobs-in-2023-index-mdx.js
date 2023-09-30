@@ -56,7 +56,7 @@ const BlogPost = ({
 const query = "421266626";
 const Head = ({
   data
-}) => /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_.createElement(seo/* SEO */.H, {
+}) => /*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_.createElement(seo/* Seo */.p, {
   title: data.mdx.frontmatter.title
 });
 BlogPost;
@@ -96,7 +96,7 @@ const Layout=({children})=>{return/*#__PURE__*/external_C_Users_MSI_In_Documents
 
 // EXPORTS
 __webpack_require__.d(__webpack_exports__, {
-  H: () => (/* binding */ SEO)
+  p: () => (/* binding */ Seo)
 });
 
 // EXTERNAL MODULE: external "C:\\Users\\MSI-In\\Documents\\perso\\projects\\careerquests\\careerquests\\node_modules\\react\\index.js"
@@ -107,7 +107,7 @@ var gatsby_browser_entry = __webpack_require__(7076);
 ;// CONCATENATED MODULE: ./src/hooks/use-site-metadata.jsx
 const useSiteMetadata=()=>{const data=(0,gatsby_browser_entry.useStaticQuery)("1946181227");return data.site.siteMetadata;};
 ;// CONCATENATED MODULE: ./src/components/seo.js
-const SEO=({title,description,pathname,children})=>{const{title:defaultTitle,description:defaultDescription,image,siteUrl}=useSiteMetadata();const seo={title:title||defaultTitle,description:description||defaultDescription,image:`${siteUrl}${image}`,url:`${siteUrl}${pathname||``}`};return/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment,null,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("title",null,seo.title),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"description",content:seo.description}),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"image",content:seo.image}),children);};
+const Seo=({title,description,pathname,children})=>{const{title:defaultTitle,description:defaultDescription,image,siteUrl}=useSiteMetadata();const Seo={title:title||defaultTitle,description:description||defaultDescription,image:`${siteUrl}${image}`,url:`${siteUrl}${pathname||``}`};return/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement((external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default()).Fragment,null,/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("title",null,Seo.title),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"description",content:Seo.description}),/*#__PURE__*/external_C_Users_MSI_In_Documents_perso_projects_careerquests_careerquests_node_modules_react_index_js_default().createElement("meta",{name:"image",content:Seo.image}),children);};
 
 /***/ })
 
